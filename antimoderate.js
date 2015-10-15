@@ -1,5 +1,5 @@
 (function() {
-    var scaling_factor = 1.24;
+    var scaling_factor = 1.0;
 
     var am = {
         mul_table: [
@@ -35,7 +35,7 @@
                 context.drawImage(idata_img, 0, 0, w, h);
 
                 var sc = scale || scaling_factor;
-                radius = Math.sqrt((w * h) / (idata_img.naturalWidth * idata_img.naturalHeight)) * sc;
+                radius = (Math.sqrt(w * h) / Math.sqrt(idata_img.naturalWidth * idata_img.naturalHeight)) * sc;
 
                 if (isNaN(radius) || radius < 1) return;
 
