@@ -25,7 +25,7 @@ Library is space optimized, with gzip it is less than 2kb.
 ```javascript
 <script src="antimoderate.js"></script>
 <script>
-    var img = document.getElementById('#picture');
+    var img = document.getElementById('picture');
 
     AntiModerate.process(picture, picture.getAttribute("data-antimoderate-idata"));
 </script>
