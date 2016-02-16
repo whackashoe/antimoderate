@@ -1,0 +1,20 @@
+{
+  "name": "antimoderate",
+  "main": "antimoderate.min.js",
+  "homepage": "https://github.com/amoludage/antimoderate",
+  "authors": [
+    "Amol Udage"
+  ],
+  "description": "The progressive image loading library",
+  "keywords": [
+    "image"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
