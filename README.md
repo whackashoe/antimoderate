@@ -15,6 +15,15 @@ Library is space optimized, with gzip it is less than 2kb.
 
 ![Example](http://i.imgur.com/fkgiPNe.png)
 
+##Installtion
+
+You can install this using `bower`
+
+```html
+
+  bower install antimoderate
+
+```
 ##Example
 
 
@@ -37,7 +46,7 @@ Library is space optimized, with gzip it is less than 2kb.
 ###AntiModerate
 
 ~~~
-Copyright (c) 2015 Jett LaRue
+Copyright (c) 2016 Jett LaRue
 
 Do whatever with it.
 
