@@ -1,0 +1,21 @@
+{
+  "name": "antimoderate",
+  "version": "1.0.0",
+  "main": "antimoderate.min.js",
+  "homepage": "https://github.com/whackashoe/antimoderate",
+  "authors": [
+    "Jett LaRue"
+  ],
+  "description": "The progressive image loading library",
+  "keywords": [
+    "image"
+  ],
+  "license": "MIT",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
