@@ -15,7 +15,7 @@ Library is space optimized, with gzip it is less than 2kb.
 
 ![Example](http://i.imgur.com/fkgiPNe.png)
 
-##Installtion
+##Installation
 
 You can install this using `bower`
 
