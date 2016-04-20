@@ -17,13 +17,15 @@ Library is space optimized, with gzip it is less than 2kb.
 
 ##Installation
 
-You can install this using `bower`
-
-```html
-
-  bower install antimoderate
+You can install this using `bower` or `npm`:
 
 ```
+  bower install antimoderate
+```
+```
+  npm install antimoderate --save
+```
+
 ##Example
 
 
